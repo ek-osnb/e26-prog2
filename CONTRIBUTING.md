@@ -4,12 +4,12 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 ## Submitting a pull request
 
-1. [Fork](https://github.com/ek-osnb/e25-prog2/fork) and clone the repository
+1. [Fork](https://github.com/ek-osnb/e26-prog2/fork) and clone Whe repository
 2. Clone the forked repository to your local machine.
 3. Create a new branch: `git checkout -b my-branch-name`
 4. Make your changes
 5. Push your changes to your fork: `git push origin my-branch-name`
-6. Push to your fork and [submit a pull request](https://github.com/ek-osnb/e25-prog2/compare)
+6. Push to your fork and [submit a pull request](https://github.com/ek-osnb/e26-prog2/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
